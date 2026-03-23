@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola, soy Julio! 👋
 
-<!--
-**JulioR87/JulioR87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Programador en Formación** con mucha curiosidad por entender cómo funciona el software y cómo se construye. Por esa razón, actualmente
+estoy dedicando mi tiempo a estudiar programación para ver hasta dónde puedo llegar.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que estoy probando ahora:
+- **Lenguajes (en proceso):** Java, JavaScript, HTML, CSS.
+- **Frontend (en proceso):** Empenzando a entender cómo funciona React.
+- **Backend & DB (en proceso):** Manejo básico de SQL y Base de Datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🎯 Mis Objetivos:
+- [ ] Entender cómo crear aplicaciones web.
+- [ ] Fortalecer mi lógica en Java y conocer buenas prácticas de estructura.
+- [ ] Aprender a colaborar con otros de forma real en GitHub.
