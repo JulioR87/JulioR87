@@ -1,4 +1,7 @@
 ## ¡Hola, soy Julio! 👋
+<p align="center">
+  <img src="./imagen2_githubprofile.jpg" alt="Mi Banner Personalizado" width="100%">
+</p>
 
 Soy un **Programador en Formación** con mucha curiosidad por entender cómo funciona el software y cómo se construye. Por esa razón, actualmente
 estoy dedicando mi tiempo a estudiar programación para ver hasta dónde puedo llegar.
